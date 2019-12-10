@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T20:12:54.514Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_R5poNh3KnqSOqmjLpiC" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T20:19:22.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1xmldVgkqMddkFCxSOEw" version="12.3.9" type="github" pages="1">
   <diagram id="DJK44X9-KY3EHYHdbx-s" name="Page-1">
     <mxGraphModel dx="837" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,10 +115,10 @@
         <mxCell id="seuzQnp5EJA8UqWP3kgC-33" value="&lt;div&gt;Protocol accounts already used to interact with Persona 0 accounts. (funding or other non private cryptographic interaction)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="536" width="160" height="92" as="geometry"/>
         </mxCell>
-        <mxCell id="seuzQnp5EJA8UqWP3kgC-40" value="&lt;div&gt;Persona Key:&lt;/div&gt;&lt;div&gt;can be used for fundamental identity operations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="seuzQnp5EJA8UqWP3kgC-40" value="&lt;div&gt;Persona Key 0:&lt;/div&gt;&lt;div&gt;can be used for fundamental identity operations (potentially using different cryptographic algorithms)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="160" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="seuzQnp5EJA8UqWP3kgC-45" value="&lt;div&gt;Persona Key:&lt;/div&gt;&lt;div&gt;can be used for fundamental identity operations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="seuzQnp5EJA8UqWP3kgC-45" value="&lt;div&gt;Persona Key 1:&lt;/div&gt;&lt;div&gt;can be used for fundamental identity operations&lt;/div&gt;&lt;div&gt;(potentially using different cryptographic algorithms)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="290" y="281.5" width="160" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="seuzQnp5EJA8UqWP3kgC-47" value="&lt;div&gt;Protocol accounts already used to interact with Persona 1 accounts. (funding or other non private cryptographic interaction)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
