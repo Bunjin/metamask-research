@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-13T15:15:41.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="GRb_Dm2sQ_tXLBxYM1mC" version="12.4.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-13T15:17:07.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="lake7rTIM8VpnGFIT5Bo" version="12.4.1" type="github" pages="1">
   <diagram id="ISyL4yHJs07onBC1n71A" name="Page-1">
     <mxGraphModel dx="879" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,8 +38,8 @@
         <mxCell id="QJqyBKiQk6toEM_sH1T4-6" value="app key origin A:&lt;br&gt;keccak256(privKey(m/101&#39;/0)+A)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="93" y="246" width="140" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qT3K2mGYBUytjidLMp-i-1" value="Application Generated Keys:&lt;br&gt;Outside of metamask control (we can only display if suggested by plugin or website):&lt;br&gt;keys derived from the app key origin A using a method defined by the app itself." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="93" y="360" width="140" height="20" as="geometry"/>
+        <mxCell id="qT3K2mGYBUytjidLMp-i-1" value="Application Generated Keys:&lt;br&gt;Not managed by MetaMask (we can only display them if suggested by plugin or website):&lt;br&gt;keys derived from the app key origin A using a method defined by the app itself." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="93" y="369" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="QJqyBKiQk6toEM_sH1T4-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
