@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-13T14:56:26.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="LA5fEvTo10mK0kaTaa6L" version="12.4.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-13T14:58:32.460Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="LxDPJZCjtjLJXf1VTx5s" version="12.4.1" type="github" pages="1">
   <diagram id="ISyL4yHJs07onBC1n71A" name="Page-1">
     <mxGraphModel dx="1706" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,6 +174,15 @@
         </mxCell>
         <mxCell id="QJqyBKiQk6toEM_sH1T4-43" value="BIP44 Full path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1020" y="156.5" width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="QJqyBKiQk6toEM_sH1T4-46" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="443.5" y="12.5" as="sourcePoint"/>
+            <mxPoint x="640" y="20" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJqyBKiQk6toEM_sH1T4-47" value="Other Protocol Accounts:&lt;br&gt;eg. SSH, PGP..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640.5" y="10" width="169" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
